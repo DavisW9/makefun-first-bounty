@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="176" viewBox="0 0 960 176" role="img" aria-labelledby="title desc">
+<title id="title">A first entry, one checkpoint at a time</title>
+<desc id="desc">Choose a task you qualify for, build original work, check the work and evidence, then submit and follow the result.</desc>
+<rect width="960" height="176" rx="16" fill="#102a29"/>
+<text x="28" y="37" fill="#a8d7c6" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">YOUR FIRST MILESTONE</text>
+<text x="28" y="72" fill="#fff8e9" font-family="Georgia,serif" font-size="28">An entry you can stand behind.</text>
+<path d="M45 116H907" fill="none" stroke="#53796d" stroke-width="2"/>
+<g fill="#f5c777"><circle cx="45" cy="116" r="6"/><circle cx="280" cy="116" r="6"/><circle cx="515" cy="116" r="6"/><circle cx="750" cy="116" r="6"/></g>
+<g fill="#fff8e9" font-family="Arial,sans-serif" font-size="16"><text x="28" y="152">01 / Choose</text><text x="263" y="152">02 / Build</text><text x="498" y="152">03 / Check</text><text x="733" y="152">04 / Submit + follow</text></g>
+</svg>
